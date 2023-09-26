@@ -1,5 +1,6 @@
 import 'animal.dart';
 
+// Define a child class named Reptile that extends the Animal class.
 class Reptile extends Animal {
   String? scaleColor; // Property to store the color of the reptile's scales.
   bool? isColdBlooded; // Property to indicate if the reptile is cold-blooded.

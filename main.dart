@@ -31,6 +31,13 @@ void main() {
   /* sampleZooName.displayAllAnimalInfo(); */
 }
 
+/**
+ * In Dart, an "instance" typically refers to an object created from a class. 
+ * Dart is an object-oriented programming language, and classes are used to 
+ * define the blueprint or template for creating objects. When you create an 
+ * object from a class, you're creating an instance of that class.
+ */
+
 // Global Variable
 // Initialize a list of Animals objects directly.
 List<Animal> animals = [

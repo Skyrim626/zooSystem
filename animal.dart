@@ -3,6 +3,7 @@
  * It is used to define the behavior of a class that can be inherited 
  * by other classes. An abstract class is declared using the keyword abstract.
  */
+
 abstract class Animal {
   /**
   * Class variables and its meaning:
